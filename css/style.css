@@ -1,0 +1,22 @@
+body{
+    background-color:#5f1b00 ;
+}
+.fam{
+    font-family: "Italianno", cursive;
+
+}
+.fam2{
+    font-family: "Sour Gummy", sans-serif;
+}
+h1{
+    font-family: "Italianno", cursive;
+    font-size: 80px;
+    font-weight: 700;
+}
+#demo{
+    font-size: 40px;
+    font-family:"Italianno", cursive; 
+    font-weight: 400;
+    padding-top: 20px;
+    
+}
